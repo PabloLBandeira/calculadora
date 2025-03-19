@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-WIP
+This project is a simple calculator built using React.js reated as part of the React.js course at DIO (Digital Innovation One). The app is designed with clean, modular components, and is a great starting point for exploring React and its capabilities.
+
 
 ## Available Scripts
 
